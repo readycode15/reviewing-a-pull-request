@@ -18,7 +18,7 @@ To play the game:
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 7. 111
-
+You can play the game at: https://readycode15.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
